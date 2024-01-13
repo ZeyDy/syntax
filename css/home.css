@@ -1,0 +1,19 @@
+/*
+reset
+base
+form
+figures
+*/
+
+/* base/init */
+@import './basic/reset.css';
+@import './basic/base.css';
+/* 3rd party */
+
+/* components */
+@import './components/figures.css';
+@import './components/form.css';
+/* custom style for this page */
+ body {
+    background-color: aquamarine;
+ }
